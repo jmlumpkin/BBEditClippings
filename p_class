@@ -1,0 +1,4 @@
+<p class="#placeholderstart#class#placeholderend#">
+	#selectionorplaceholder content#
+</p>
+#indent##inline#
