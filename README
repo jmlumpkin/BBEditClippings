@@ -1,3 +1,5 @@
 A set of clippings adjusted or created to match the formatting I like to use in BBEdit. 
 
 Current clippings just adjust paragraph and DIV tags in HTML to put content on the next line automatically indented.
+
+These should be copied into ~/Library/Application Support/BBEdit/Clippings/HTML.html/, or into ~/Dropbox/Application Support/BBEdit/Clippings/HTML.html/ if you have BBEdit set up to sync.
